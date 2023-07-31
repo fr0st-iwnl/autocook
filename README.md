@@ -10,4 +10,4 @@
 
 * ⌚️ New scripts/macros in the future!
 
-* Credits to Josh just remade it better.
+* Credits to Josh/Nacryptix just remade it better.

@@ -17,4 +17,4 @@
 - [Installation](https://youtu.be/EF6H9WXwU94)
 
 ## 🤔 What is KM | Kiyoko's Macro?
-Kiyoko's Macros is an open source project that boosts Roblox games using Autohotkey macros.
+Kiyoko's Macros is an project that boosts Roblox games using Autohotkey macros.

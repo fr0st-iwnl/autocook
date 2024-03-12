@@ -7,7 +7,7 @@
 <p align="center">A macro for mighty omega that autocooks for you.</p>
 
 <p align="center">
-  <a href="" target="_blank">🌐 Website</a>
+  <a href="https://kiyokosmacros.netlify.app" target="_blank">🌐 Website</a>
   •
   <a href="https://discord.gg/8xPc9x4Gus" target="_blank">☎️ Discord</a>
   •
